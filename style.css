@@ -1,0 +1,50 @@
+#foto {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+iframe {
+    padding-left: 175px;
+    padding-top: 50px;
+}
+.lugares1 img {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.lugares1 {
+    padding-left: 175px;
+    padding-top: 50px;
+    padding-right: 175px;
+}
+h1 {
+    padding-left: 500px;
+    padding-top: 50px;
+    padding-right: 175px;
+}
+.filme-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filme-head i {
+    float: right;
+}
+.conquista_texto span {
+    color: orange;
+}
+.conquista_texto img {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+.conquista_texto {
+    padding-left: 175px;
+    padding-top: 50px;
+    padding-right: 175px;
+}
+.conquista_texto h5 {
+    padding-left: 175px;
+    padding-right: 175px;
+}
